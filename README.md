@@ -12,28 +12,21 @@ The plot shows that the average sentiment has been neutral and the volume of mes
 
 Sentiment 
 
---- | --- |
-
-Description | Date |
-
+| Description | Date |
+| ------ | ------ |
 Highest Neutral Sentiment (towards positive) | May 8 
-
 Lowest Neutral Sentiment (towards negative) | May 15
 
---- | --- |
+
 
 
 Messages
 
---- | --- |
-
 Description | Date | Number Of Messages |
-
+| ------ | ------ | ------ |
 Lowest # of Messages | May 2 | 13
-
 Highest # of Messages | May 10 | 773
 
---- | --- | --- |
 
 # PStdDev (volatility) on sentiment - 0.301
 
