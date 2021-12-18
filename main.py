@@ -30,11 +30,6 @@ lemmatizer = WordNetLemmatizer()
 def clean_data(message):
     # filter whitespace
     message = message.strip()
-    # filter numbers
-    message = re.sub(r'\d+', '', message)
-    # lowercase
-    message = message.lower()
-
     return message
 
 
