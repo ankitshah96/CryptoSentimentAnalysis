@@ -31,3 +31,7 @@ Furthermore the volume of message have been high on days when there were outages
 3. Run App 
    
    python main.py
+   
+ # Plot Result
+ 
+ ![Alt text](plot_screenshot.png “Sentiment-Analysis”)
