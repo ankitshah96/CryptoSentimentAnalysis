@@ -22,7 +22,7 @@ Furthermore the volume of message have been high on days when there were outages
    to sentiments expressed in social media.
    It works well sentiment of a text containing emoticons, slangs, conjunctions, capital words and punctuations. Vader is part of NLTK library.
    
-#Instructions to run the code
+# Instructions to run the code
 
 1. Create virtual Environment
 
