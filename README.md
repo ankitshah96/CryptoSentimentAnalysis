@@ -10,6 +10,7 @@ Furthermore the volume of message have been high on days when there were outages
 # Choice of Sentimemnt Analysis approach
 
 1. Pre-Processing:
+
    A. Removal of white spaces.Here I have not converted text to lowercase as case of the text can convey emphasis information.
       Next step was to consider only those messages referring to DOGE or SHIB coins.
       
