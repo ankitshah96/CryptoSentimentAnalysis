@@ -22,8 +22,10 @@ Furthermore the volume of message have been high on days when there were outages
    
 #Instructions to run the code
 
-Create virtual Environment
+1. Create virtual Environment
 
-Install requirements pip install -r requirements.txt
+2. Install requirements pip install -r requirements.txt
 
-run app python main.py
+3. Run App 
+   
+   python main.py
