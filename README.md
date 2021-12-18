@@ -12,6 +12,7 @@ Furthermore the volume of message have been high on days when there were outages
 1. Pre-Processing:
    A. Removal of white spaces.Here I have not converted text to lowercase as case of the text can convey emphasis information.
       Next step was to consider only those messages referring to DOGE or SHIB coins.
+      
    B. Furthermore, messages were tokenized, stemmed (representing words in their root form) and lemmatized (representing related words in dictionary). 
       Only english language messages were considered rest messages were removed.
       
