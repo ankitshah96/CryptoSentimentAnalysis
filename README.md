@@ -10,6 +10,22 @@ Sentiment Analysis for Doge and Shib Coins
  
 The plot shows that the average sentiment has been neutral and the volume of message have been high on days when there were outages on Crypto.com and there was high volatility. Furthermore there seems to be a correlation between sentiment, market value and volume of trade for the coins for a day. 
 
+#Sentiment|
+--- | --- | 
+Description | Date |
+Highest Neutral Sentiment (towards positive) | May 8 
+Lowest Neutral Sentiment (towards negative) | May 15
+--- | --- |
+
+--- | --- |
+#Messages
+--- | --- |
+Description | Date | Number Of Messages |
+Lowest # of Messages | May 2 | 13
+Highest # of Messages | May 10 | 773
+--- | --- | --- |
+
+# PStdDev (volatility) on sentiment - 0.301
 
 # Choice of Sentimemnt Analysis approach
 
