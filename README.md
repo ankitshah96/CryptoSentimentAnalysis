@@ -19,11 +19,11 @@ The plot shows that the average sentiment has been neutral and the volume of mes
       Next step was to consider only those messages referring to DOGE or SHIB coins.
       
    B. Furthermore, messages were tokenized, stemmed (representing words in their root form) and lemmatized (representing related words in dictionary). 
-      Only english language messages were considered rest messages were removed.
+      Only english language messages were considered, rest messages were removed.
       
 2. Sentiment Analysis:
-   I decided to use VADER (Valence Aware Dictionary and sEntiment Reasoner) for sentiment analysis. VADER is a lexicon and rule-based sentiment analysis tool, specifically attuned 
-   to sentiments expressed in social media.
+   I decided to use VADER (Valence Aware Dictionary and Sentiment Reasoner) for sentiment analysis. VADER is a lexicon and rule-based sentiment analysis tool, specifically 
+   attuned to sentiments expressed in social media.
    It works well sentiment of a text containing emoticons, slangs, conjunctions, capital words and punctuations. Vader is part of NLTK library.
    
 # Instructions to run the code
