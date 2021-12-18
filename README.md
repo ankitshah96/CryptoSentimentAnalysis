@@ -6,10 +6,10 @@ Sentiment Analysis for Doge and Shib Coins
 # Summary of results
 
  
- ![Alt text](plot_screenshot.png“Sentiment-Analysis”)
+ ![Sentiment Analysis Plot](plot_screenshot.png “Sentiment-Analysis”)
  
-The plot shows that the average sentiment has been neutral but there is a correlation between sentiment and market value and volume of trade for the coins for a day. 
-Furthermore the volume of message have been high on days when there were outages on Crypto.com and there was high volatility.
+The plot shows that the average sentiment has been neutral and the volume of message have been high on days when there were outages on Crypto.com and there was high volatility. Furthermore there seems to be a correlation between sentiment, market value and volume of trade for the coins for a day. 
+
 
 # Choice of Sentimemnt Analysis approach
 
